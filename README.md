@@ -2,7 +2,7 @@
 
 This repository contains the code and some materials used in the experimental work presented in the following paper:
 
-[1] [Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad338/7177993) <br> Bioinformatics, 2023.
+[1] [Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad338/7177993) Bioinformatics, 2023.
 
 ## Data
 
